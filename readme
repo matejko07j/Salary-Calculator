@@ -1,0 +1,11 @@
+#Simple Java based wage calculator.
+* Includes Overtime calculation (currently set to 1.5* which is equal to £4.25 of current wage)
+* Tax deduction set to 20% to calculate new wage * 0.20.
+
+Standard hours per week 40.
+If & else - worked more than 40 hours than calculate overtime wage and apply to print results.
+Else - show normal hours salary.
+
+- Yes, this is a simple Salary Calculator - use for own benefit to learn how to program using Java.
+
+Feel free to read the comments and use it if you want 2.
